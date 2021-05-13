@@ -1,7 +1,7 @@
-# Rust Wasm template on windows.
+# Rust Wasm template for windows.
 
-requirements: <br />
+Requirements: <br />
 * [Rust](https://www.rust-lang.org)
 * [wasm-bindgen CLI](https://crates.io/crates/wasm-bindgen-cli)
-<br /> install using cargo:
+<br /> Install using cargo:
 <br /> cargo install wasm-bindgen-cli --force
