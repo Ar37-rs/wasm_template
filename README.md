@@ -1,1 +1,1 @@
-# wasm_template
+# Rust Wasm template on windows.
